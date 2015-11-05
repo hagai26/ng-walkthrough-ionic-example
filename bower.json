@@ -1,0 +1,10 @@
+{
+  "name": "ng-walkthrough-ionic-example",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.0"
+  },
+  "dependencies": {
+    "ng-walkthrough": "~0.3.1"
+  }
+}
